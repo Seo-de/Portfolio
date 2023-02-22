@@ -1,12 +1,12 @@
 # 서도은 intro
 Java와 Spring Framwork를 기반으로 프로젝트를 진행했습니다. <br>
 스터디원들과 Spring Boot를 공부하고 있습니다. <br>
-계속해서 배워나가며 성장하는 개발자가 되겠습니다. <br><br><br>
+계속해서 배워나가며 성장하는 개발자가 되겠습니다. <br><br>
 
 # contact
 Email : gkw1590@gmail.com <br>
 Github : https://github.com/Seo-de <br>
-Blog : https://dodiary.tistory.com/ <br><br><br>
+Blog : https://dodiary.tistory.com/ <br><br>
 
 # projects
 
